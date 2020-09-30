@@ -2,7 +2,7 @@
 
 ## My new productivity app that I will inevitably give up on in two weeks
 
-_prodiJ (triple entendre baby; prodigy from being so productive (yeah right), IntelliJ since coding app in Java/JS, and J for Joe)_
+_prodiJ (triple entendre baby; prodigy from being so productive (yeah right), IntelliJ since Java/JS and such, and J for Joe duh_
 
 **Features?**
 
