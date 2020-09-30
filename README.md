@@ -1,10 +1,8 @@
 # prodiJ
 
-## Productivity App
+## My new productivity app that I will inevitably give up on in two weeks
 
-### New App Idea that I will inevitably give up on in two weeks
-
-_Productivity App - prodiJ (triple entendre baby; prodigy from being so productive (yeah right), IntelliJ since coding app in Java/JS, and J for Joe)_
+_prodiJ (triple entendre baby; prodigy from being so productive (yeah right), IntelliJ since coding app in Java/JS, and J for Joe)_
 
 **Features?**
 
